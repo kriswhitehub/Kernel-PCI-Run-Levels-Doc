@@ -1,7 +1,4 @@
-# Kernel-PCI-Run-Levels-Doc
-Resolving PCI Device Issues, Verifying Kernel Install, and Understanding Run Levels in RHEL
-
-## Resolving PCI Device Issues, Verifying Kernel Install, and Understanding Run Levels in RHEL
+# Resolving PCI Device Issues, Verifying Kernel Install, and Understanding Run Levels in RHEL
 
 ### Resolving an Issue with a PCI Device
 1. Identify the PCI device using the command 'lspci' to list all PCI devices.
